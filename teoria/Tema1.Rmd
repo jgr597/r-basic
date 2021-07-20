@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
 </div>
 
 
-- Entorno de programación para el **análisis estadístico y gráfico de datos**
+- Entorno de programación para el análisis estadístico y gráfico de datos
 - Software libre
 - Sintaxis sencilla e intuitiva
 - Enorme comunidad de usuarios (Comprehensive R Archive Network, CRAN)
